@@ -1,4 +1,3 @@
-
 commit 8fc30af40ce8b2c4ff931059df8c51092b9c8850 (HEAD -> master, origin/master, origin/HEAD)
 Author: stefaanpetrov <stefan.petrov.1@students.finki.ukim.mk>
 Date:   Mon Apr 15 01:08:14 2024 +0200
@@ -21,4 +20,16 @@ commit 0e8aef8f6562356cb80a1b49a1b9b44b185dfde1
 Author: stefaanpetrov <stefan.petrov.1@students.finki.ukim.mk>
 Date:   Sun Apr 14 23:16:42 2024 +0200
 
-:
+    Add Starter Code
+
+commit 31c1a45d452d72bce2c015f47e99e0477a53564a
+Author: stefaanpetrov <163160165+stefaanpetrov@users.noreply.github.com>
+Date:   Sun Apr 14 23:25:46 2024 +0200
+
+    Create 215023.txt
+
+commit 991ceb63302384f4800beaca90d7d45ce380a0b3
+Author: stefaanpetrov <163160165+stefaanpetrov@users.noreply.github.com>
+Date:   Sun Apr 14 22:26:52 2024 +0200
+
+    Initial commit
