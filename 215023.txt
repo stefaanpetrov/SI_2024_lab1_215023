@@ -1,1 +1,12 @@
+git checkout- za prefrlanje na granka
+git checkout -b <new branch> za dodavanje na nov branch
+git rebase master- za site granki so master up to date
+git push origin master- za spojuvanje na local repositorium
+git commit -m "Your commit message"- se pravi commit
+git add <file_name>-za staged faza odnosno dodavanje na nov
+git clone <repository_URL>-za kloniranje
+git merge <branch_name>-za spojuvanje
+git status- statusot na grankata koja sakame
+git log- za koi logovi se napraveni
 
+Najprvin go povrzav lokalniot repo so oddaleceniot repo i dodadov README.md i .txt datoteki so commiti,potoa gi dodadov 3 linka od labs vezba, i potoa imav problem so lozinkata na github pri rabota vo terminal,no ja srediv so dodavanje na nov token i menuvanje na pasvordot. Vo .java fajlovite napraviv izmeni i potoa koga go proveriv nivniot status mi bese izdaden na terminal, pravev i uste 2 novi branch-a kade se barase da se napravi i --force na bug2 ako e potrebno no kaj mene bese vo red.
