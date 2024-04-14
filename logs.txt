@@ -1,1 +1,24 @@
 
+commit 8fc30af40ce8b2c4ff931059df8c51092b9c8850 (HEAD -> master, origin/master, origin/HEAD)
+Author: stefaanpetrov <stefan.petrov.1@students.finki.ukim.mk>
+Date:   Mon Apr 15 01:08:14 2024 +0200
+
+    Final commit
+
+commit 155b5d293bbd5d4b741e2dd04a3d90c0a381ed8a
+Author: stefaanpetrov <stefan.petrov.1@students.finki.ukim.mk>
+Date:   Mon Apr 15 01:00:37 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8db18257f51c33a0fc008f3074d7fd6676260dbe
+Author: stefaanpetrov <stefan.petrov.1@students.finki.ukim.mk>
+Date:   Mon Apr 15 00:59:27 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0e8aef8f6562356cb80a1b49a1b9b44b185dfde1
+Author: stefaanpetrov <stefan.petrov.1@students.finki.ukim.mk>
+Date:   Sun Apr 14 23:16:42 2024 +0200
+
+:
